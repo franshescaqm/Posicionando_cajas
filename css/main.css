@@ -1,0 +1,72 @@
+
+/* se realizo el mismo procedimiento que la clase .Black */
+.Yellow{
+background-color: Yellow;
+position: relative;
+top: -5em;
+left: -5.0em;
+height: 76px;
+width: 77px;
+padding: 1px;
+}
+
+/* se realizo el mismo procedimiento que la clase .Green */
+.Purple{
+  background-color: Purple;
+  position: relative;
+  top: 5em;
+  left: 1.3em;
+  margin-left: 60px;
+  height: 200px;
+  width: 200px;
+
+}
+
+/* se inserto el positioning "relative" para una posicion exacta */
+.Red{
+  background-color: Red;
+display: inline-block;
+position: relative;
+top: -22em;
+bottom: -15em;
+left: -1.3em;
+height: 345px;
+width: 345px;
+margin: 20px;
+margin-top: -1px;
+}
+
+/* se inserto el positioning "relative" para una posicion exacta */
+.Green{
+  background-color: Green;
+  position: relative;
+  top: 5em;
+  left: 1.3em;
+  margin-left: 60px;
+  height: 200px;
+  width: 200px;
+}
+
+/* se inserto el positioning "relative" para una posicion exacta */
+.Blue{
+  display: block;
+  background-color: Blue;
+  position: relative;
+top: 22em;
+  height: 345px;
+  width: 345px;
+  margin: 20px;
+  margin-left: 150px;
+  margin-top: 300px;
+  margin-bottom: 10px;
+}
+/* se inserto el positioning "relative" para una posicion exacta */
+.Black{
+background-color: Black;
+position: relative;
+top: -5em;
+left: -5.0em;
+height: 76px;
+width: 77px;
+padding: 1px;
+}
